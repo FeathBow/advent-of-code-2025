@@ -1,0 +1,14 @@
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.lib
+*.exe
+*.out
+*.app
+.DS_Store
+._*
+*.dSYM
+build/
+bin/
